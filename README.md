@@ -2,7 +2,6 @@
 Projekti nimi: Kalkulaatori rakendus
  Testitavad komponendid: App, DisplayContainer, ButtonsContainer
  Testimise tööriistad: Jest + React Testing Library
- Testimise liik: Ühiktestid
  Testimise eesmärk: Kontrollida kalkulaatori põhifunktsioonide ja UI elementide korrektsust
 
 
